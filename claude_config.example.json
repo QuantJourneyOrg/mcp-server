@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "quantjourney": {
+            "command": "python",
+            "args": [
+                "/path/to/mcp-server/server.py"
+            ],
+            "env": {
+                "QJ_MCP_EMAIL": "your@email.com",
+                "QJ_MCP_PASSWORD": "your-password"
+            }
+        }
+    }
+}
