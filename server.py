@@ -101,7 +101,7 @@ def _load_tools_from_api() -> Dict[str, Tool]:
     try:
         # Fetch MCP tools manifest
         resp = requests.get(
-            f"{BASE_URL}/mcp/tools",
+            f"{BASE_URL}/mcp/manifest",
             headers={"Authorization": AUTH_TOKEN, "Content-Type": "application/json"},
             timeout=30
         )
