@@ -1,6 +1,15 @@
 # QuantJourney MCP Server
 
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![MCP Protocol](https://img.shields.io/badge/MCP-2024--11--05-purple?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVWN2wtOS01eiIvPjwvc3ZnPg==)](https://modelcontextprotocol.io)
+[![Providers](https://img.shields.io/badge/providers-16%2B-orange)](https://api.quantjourney.cloud/mcp)
+[![Tools](https://img.shields.io/badge/tools-500%2B-red)](https://api.quantjourney.cloud/mcp)
+[![GitHub stars](https://img.shields.io/github/stars/QuantJourneyOrg/mcp-server?style=social)](https://github.com/QuantJourneyOrg/mcp-server)
+
 Connect AI assistants (Claude Desktop, Cursor, Windsurf) to **500+ financial data tools** from QuantJourney using the [Model Context Protocol (MCP)](https://modelcontextprotocol.io).
+
+[**QuantJourney API**](https://quantjourney.cloud) offers a unified financial data platform that aggregates 40+ data providers (FMP, FRED, Yahoo Finance, SEC, CCXT, and more) into a single API and MCP. One account, one authentication — access to all providers.
 
 ## Features
 
