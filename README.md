@@ -109,6 +109,15 @@ Once configured, try these in Claude:
 - *"Compare Bitcoin and Ethereum performance this year"*
 - *"What's the current BTC/USDT orderbook depth?"*
 
+### See It in Action
+
+<p align="center">
+  <img src="images/p_e_comparison.png" width="420" alt="P/E ratio comparison for AAPL, MSFT, GOOGL" />
+  <img src="images/usd_gdp_growth_unemployment.png" width="420" alt="US GDP Growth vs Unemployment Rate from FRED" />
+</p>
+
+> 📸 More examples with screenshots → [EXAMPLES.md](EXAMPLES.md)
+
 ## Data Providers
 
 | Provider | Tools | Description |
