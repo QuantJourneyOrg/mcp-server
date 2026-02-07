@@ -9,7 +9,7 @@
 
 Connect AI assistants (Claude Desktop, Cursor, Windsurf) to **500+ financial data tools** from QuantJourney using the [Model Context Protocol (MCP)](https://modelcontextprotocol.io).
 
-[**QuantJourney API**](https://quantjourney.cloud) offers a unified financial data platform that aggregates 40+ data providers (FMP, FRED, Yahoo Finance, SEC, CCXT, and more) into a single API and MCP. One account, one authentication — access to all providers.
+[**QuantJourney API**](https://api.quantjourney.cloud) offers a unified financial data platform that aggregates 40+ data providers (FMP, FRED, Yahoo Finance, SEC, CCXT, and more) into a single API and MCP. One account, one authentication — access to all providers.
 
 ## Features
 
