@@ -1,10 +1,11 @@
 """
-QuantJourney MCP Utilities
--------------------------------------------------------------------------------
-Helpers to export MCP-compatible tool manifests and human-readable docs from
-the live API surface (routers + generated Params models) and the domains registry.
+QuantJourney MCP Server
+-----------------------
+A lightweight MCP client that connects AI assistants (Claude Desktop, Cursor)
+to the QuantJourney financial data API.
 
-Artifacts are written to quantjourney/data/mcp/ by the generator script in
-scripts/generate_mcp.py.
+Tools are loaded dynamically from the API manifest endpoint.
+Authentication via email/password or API key.
 """
 
+__version__ = "1.1.0"
